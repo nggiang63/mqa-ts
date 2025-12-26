@@ -107,11 +107,3 @@ Hậu xử lý:
 - Subtask 1: F2-score (ưu tiên Recall để hạn chế bỏ sót điều luật)  
 - Subtask 2: Accuracy (đánh giá trực tiếp câu trả lời)
 
-
-## Ghi chú
-
-Dự án mang tính nghiên cứu và học thuật, phù hợp cho:
-- Khóa luận tốt nghiệp
-- Nghiên cứu Multimodal Question Answering
-- Legal AI
-- Hệ thống hỗ trợ giao thông thông minh
