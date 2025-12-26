@@ -1,5 +1,5 @@
 # Multimodal Question Answering on Traffic Sign  
-*(Hệ thống Hỏi-Đáp Đa Phương Thức trên Biển Báo Giao Thông)*
+*Tất cả code được thực hiện ở Google Colab (GPU T4)*
 
 ## Giới thiệu
 
@@ -10,8 +10,6 @@ Hệ thống kết hợp hình ảnh giao thông (biển báo, bối cảnh đư
 - Trả lời câu hỏi trắc nghiệm hoặc Đúng/Sai
 
 Dự án được thiết kế theo hướng training-free, không huấn luyện mô hình mới, mà khai thác các mô hình thị giác-ngôn ngữ và kỹ thuật truy hồi vector.
-
-Tất cả code được thực hiện ở Google Colab (GPU T4)
 
 ## Mục tiêu
 
